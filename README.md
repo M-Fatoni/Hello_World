@@ -10,7 +10,7 @@ print('Hello_World')
 #in C
 #include<stdio.h>
 int main(void){
-prinf("Hello_World")
+printf("Hello_World")
 
 return 0;
 }
